@@ -1,0 +1,18 @@
+.box{ 
+    display: flex;
+    width: 100px;
+    height: 60px;
+    background-color: blue;
+    color: azure;
+         align-items:center;
+    justify-content: center;
+ 
+}
+body{
+    display: flex;
+margin: 0;
+    height: 100vh;
+align-items: center;
+    justify-content: center;
+}
+
