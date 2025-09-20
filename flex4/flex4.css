@@ -1,0 +1,25 @@
+.flex{
+    display: flex;
+    flex-direction: row;
+    align-items:stretch;
+    justify-content: center;
+    height: 100vh;
+
+}
+body{
+    height:100%;
+margin: 0%;
+
+}
+.box{
+    background-color: blue;
+    color: aliceblue;      
+    flex:1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 24px;
+    border: 1px solid white;
+    gap:10px
+    
+}
