@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+    height: auto;
+    gap: 20px;
+    flex-wrap: wrap;
+
+}
+.box{
+width: 30%;
+height: 150px;
+    background-color: aqua;
+    color: aliceblue;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 1px solid white;
+    padding: 20px;
+
+}
+*{
+    box-sizing: border-box;
+    margin: 0;
+}
